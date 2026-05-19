@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "908072847395",
+    "project_id": "management-cbc75",
+    "storage_bucket": "management-cbc75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908072847395:android:ad5ac59e645518d93b0996",
+        "android_client_info": {
+          "package_name": "com.example.khulood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvNgkR_terjt4MtMkj2ggG7j3_BL5XF5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
